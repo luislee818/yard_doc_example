@@ -14,6 +14,10 @@ module YardDocExample
   # @attr_writer [Array<String>] name_writeonly description of writeonly attribute
   # @!attribute [r] count
   #   @return [Number] the number of items
+  #
+  # @see https://rubydoc.info/gems/yard/file/docs/GettingStarted.md Getting Started guide with YARD
+  # @see https://www.rubydoc.info/gems/yard/file/docs/Tags.md YARD Tags
+  # @see https://gist.github.com/chetan/1827484 YARD cheat sheet
   class MyClass
     #
     # @see http://example.com Description of URL
