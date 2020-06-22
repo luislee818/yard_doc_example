@@ -13,7 +13,7 @@ module YardDocExample
   # @attr_reader [Hash] name_readonly description of a readonly attribute
   # @attr_writer [Array<String>] name_writeonly description of writeonly attribute
   # @!attribute [r] count
-  #   @return [Number] the number of items
+  #   @return [Integer] the number of items
   #
   # @see https://rubydoc.info/gems/yard/file/docs/GettingStarted.md Getting Started guide with YARD
   # @see https://www.rubydoc.info/gems/yard/file/docs/Tags.md YARD Tags
